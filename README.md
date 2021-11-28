@@ -72,7 +72,7 @@ On the main page you will have two options
 ![Class Options](./screenshots/class-options.png)
 
 To Join Class You will need the classcode and the gmail id of the user who has created that class.
-(The ClassCode can be find when you eneter in any class, On the top you will have the details of Class Code You can use this class code from some other account to join that class. If you enter wrong class code or wrong associated email id, you will have an error that No Class was found.)
+(The ClassCode can be find when you enter in any class, On the top you will have the details of Class Code. You can use this class code from some other account to join that class. If you enter wrong class code or wrong associated email id, you will have an error that No Class was found.)
 
 ![Join Class](./screenshots/join-class.png)
 
